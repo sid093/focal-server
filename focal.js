@@ -19,5 +19,5 @@ app.use('/mailbox', mailboxRoute);
 app.use('/location', locationRoute);
 
 app.listen(3000, function () {
-  console.log('Example app listening on port 3000!');
+  console.log('Example app listening on port 3000 from the Mac!');
 });
